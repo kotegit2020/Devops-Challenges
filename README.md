@@ -16,4 +16,5 @@
 
 1. Create a Pull Request and propose some changes to this repository.
 2. Install and Configure AWS-CLI in your laptop.
+3. Enable Multi-Factor Authentication for your AWS root account using google authenticator mobile app.
 
